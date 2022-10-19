@@ -1,5 +1,5 @@
-# food-website!
-[renuka1](https://user-images.githubusercontent.com/108112770/196748447-c5f1a5b6-d0d8-4f88-9e42-67d83f9f87dd.png)
+# food-website
+![renuka1](https://user-images.githubusercontent.com/108112770/196748447-c5f1a5b6-d0d8-4f88-9e42-67d83f9f87dd.png)
 
 ![renuka2](https://user-images.githubusercontent.com/108112770/196748490
 
