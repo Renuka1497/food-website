@@ -1,7 +1,7 @@
 # food-website
 ![renuka1](https://user-images.githubusercontent.com/108112770/196748447-c5f1a5b6-d0d8-4f88-9e42-67d83f9f87dd.png)
 
-![renuka2](https://user-images.githubusercontent.com/108112770/196748490
+![renuka2](https://user-images.githubusercontent.com/108112770/196749552-5815ec37-d059-432e-84fe-c2ef2b6fd25a.png)
 
 ![renuka 3](https://user-images.githubusercontent.com/108112770/196748560-097795bb-51b0-4a6a-ae07-e65bffe03dcd.png)-0bdf35a1-d51b-4353-b1d4-e55ba91fce6c.png)
 
